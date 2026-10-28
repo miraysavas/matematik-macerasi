@@ -2,7 +2,7 @@
 
 8. sınıflar için eğlenceli bir matematik oyunu. **Üslü Sayılar**, **Çarpanlar ve Katlar** ile **EBOB ve EKOK** konularında 20 yeni nesil, orta zorlukta soru içerir.
 
-**Oyna:** https://meliksavas.github.io/matematik-macerasi/
+**Oyna:** https://miraysavas.github.io/matematik-macerasi/
 
 ## Özellikler
 
